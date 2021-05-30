@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <link href='https://fonts.googleapis.com/css?family=Lato' rel='stylesheet' type='text/css'>
 <link rel="icon" type="image/png" href="avatar.jpg" sizes="16x16">
 <link rel="icon" type="image/png" href="avatar.jpg" sizes="32x32">
@@ -10,7 +10,7 @@
 box-sizing:border-box;
 padding:0;
 margin:0;
-font-family: 'Lato', sans-serif;
+font-family: 'Comic Sans MS', sans-serif;
 }
 
 #container {
